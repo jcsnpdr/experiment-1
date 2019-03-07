@@ -1,0 +1,21 @@
+#include <iostream>
+#include <conio.h>
+int main()
+{
+	int mass;
+	mass =enter mass;
+	int density mass;
+	density = enter density
+	
+	cout << "enter mass" << endl;
+	cin >> mass;
+	cout << "enter density" << endl;
+	cin >> density;
+
+	
+	cout << mass/density << endl;
+
+
+-getch();
+return 0;
+}
